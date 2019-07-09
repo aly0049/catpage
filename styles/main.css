@@ -1,0 +1,27 @@
+.whole {
+	width: 800px;
+	margin: auto;
+	padding: 10px;
+	border: 2px black solid;
+}
+
+.headerimg {
+	padding-left: 10px;
+}
+
+html {
+	background-color: lightblue;
+}
+
+header {
+	height: 200px;
+}
+
+footer {
+	border: 2px black solid;
+	text-align: center;
+}
+
+.title {
+	padding-left: 300px;
+}
